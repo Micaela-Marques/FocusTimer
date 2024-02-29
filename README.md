@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Projeto" src="./Focus Timer V2 • Projeto Explorer (Community)">
+  <img alt="Projeto" src="./Focus Timer V2 • Projeto Explorer (Community).png">
 
 </p>
 
